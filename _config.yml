@@ -1,0 +1,12 @@
+# Site settings
+title: Ruby on Rails Blog
+email: bswinnerton+rorblog@gmail.com
+description: "This is a blog for the ruby on rails study group"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
